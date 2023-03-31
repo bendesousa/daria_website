@@ -118,6 +118,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 50px;
 }
 
 video {
@@ -147,7 +148,8 @@ video {
     justify-content: center;
     font-family: 'Viga', sans-serif;
     font-weight: bold;
-
+    margin-top: 50px;
+  margin-bottom: 0px;
 }
 
 .details {
