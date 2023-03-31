@@ -118,6 +118,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     margin-top: 50px;
 }
 
@@ -130,13 +131,12 @@ video {
   padding: 0px;
 }
 
-.interview p {
-  position: relative;
-  left: 100px;
+.interview_text {
   border: #D5C5C3;
   border-style: solid;
   border-radius: 10px;
   padding: 10px;
+  margin: 10px;
 }
 
 .About {
